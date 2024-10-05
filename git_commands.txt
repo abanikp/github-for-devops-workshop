@@ -13,3 +13,7 @@
  git remote add origin https://github.com/abanikp/github-for-devops-workshop.git
  git remote -v
  git branch
+ git remote set-url origin https://givetoken@github.com/abanikp/github-for-devops-workshop.git
+ git remote -v
+ git push origin master
+ git push origin main
